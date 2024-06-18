@@ -109,10 +109,10 @@ Indicates that the transaction has been created but the customer hasn't complete
   "external_transaction_id": "1234567",
   "external_customer_id": "1234567",
   "order_crypto": "LTC",
-  "order_amount_usd": 25,
-  "order_amount_usd_plus_fees": 25.5,
-  "order_amount_eur": 21,
-  "order_amount_eur_plus_fees": 22.5,
+  "order_amount_usd": "25",
+  "order_amount_usd_plus_fees": "25.5",
+  "order_amount_eur": "21",
+  "order_amount_eur_plus_fees": "22.5",
   "order_id": "9fcc45a5-4def-4953-9bd8-9ff75d9aaa9c"
 }
 ```
@@ -141,10 +141,10 @@ Indicates that the order has been processed, and the cryptocurrency purchase was
   "order_crypto_address": "ltc1qlec2yfpkdvn4lr0vpf27qggrxtu34zeu5l6g2u",
   "external_transaction_id": "1234567",
   "external_customer_id": "1234567",
-  "order_amount_usd": 25,
-  "order_amount_usd_plus_fees": 25.5,
-  "order_amount_eur": 21,
-  "order_amount_eur_plus_fees": 22.5,
+  "order_amount_usd": "25",
+  "order_amount_usd_plus_fees": "25.5",
+  "order_amount_eur": "21",
+  "order_amount_eur_plus_fees": "22.5",
   "network": "litecoin"
 }
 ```
@@ -162,10 +162,10 @@ Indicates that the cryptocurrency transaction has been broadcasted to the blockc
   "order_crypto_address": "ltc1qlec2yfpkdvn4lr0vpf27qggrxtu34zeu5l6g2u",
   "external_transaction_id": "1234567",
   "external_customer_id": "1234567",
-  "order_amount_usd": 25,
-  "order_amount_usd_plus_fees": 25.5,
-  "order_amount_eur": 21,
-  "order_amount_eur_plus_fees": 22.5,
+  "order_amount_usd": "25",
+  "order_amount_usd_plus_fees": "25.5",
+  "order_amount_eur": "21",
+  "order_amount_eur_plus_fees": "22.5",
   "network": "litecoin"
 }
 ```
