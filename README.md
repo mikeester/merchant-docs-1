@@ -283,7 +283,10 @@ Response:
 ## Get Payment Status
 Allows for retrieving the status of a payment.
 
-URL:  https://eocb95pk8c29bt6.m.pipedream.net
+URL:  `https://eocb95pk8c29bt6.m.pipedream.net`<br>
+Request Type: `GET`<br>
+Data type: `JSON`<br>
+Note: The request data should be on the body of the GET request.
 
 Request Data:
 ```json
